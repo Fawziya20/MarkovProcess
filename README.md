@@ -30,7 +30,7 @@ Developed by: Fawziya
 Registration number: 212220230017
 */
 ```
-```
+```python
 import numpy as np
 P0=[0.3,0.2,0.5]
 P=[[0,2/3,1/3],[1/2,0,1/2],[1/2,1/2,0]]
@@ -44,5 +44,7 @@ for i in range(1,n+1):
 
 
 # Results and Output : 
-![171245324-349826d6-3b8f-4dc3-8607-eaac5dedb839](https://user-images.githubusercontent.com/75235022/172541165-6f5d4672-b8bc-41b4-bfa2-9a96eb014e42.png)
+
+![171245324-349826d6-3b8f-4dc3-8607-eaac5dedb839](https://user-images.githubusercontent.com/75235022/172541165-6f5d4672-b8bc-41b4-bfa2-9a96eb014e42.png)<br>
+
 Thus, the program to calculate n-th step probability distribution matrix of the three state Markov chain is implemented.
